@@ -1,0 +1,6 @@
+rich>=13.0.0
+cryptography>=41.0.0
+mnemonic>=0.20
+hdwallet>=2.2.0
+ecdsa>=0.18.0
+base58>=2.1.0
